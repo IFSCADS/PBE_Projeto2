@@ -1,4 +1,4 @@
-# Projeto1: um sistema de leilão online
+# Projeto 2: um sistema de leilão online
 
 Neste projeto, sua equipe deverá desenvolver o backend para uma aplicação para leilão online. A aplicação deve possibilitar fazer tanto leilões para compra ou venda de bens e serviços.
 
