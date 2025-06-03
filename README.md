@@ -9,7 +9,7 @@ A atividade de leilão envolve possibilitar que interessados disputem pela aquis
 * [Leilão eletrônico da Receita Federal](https://www.leilaoonline.net/)
 * [Leilão de imóveis da Caixa Econômica Federal](https://www.caixa.gov.br/voce/poupanca-e-investimentos/acoes-online/leiloes/Paginas/default.aspx)
 
-Um pregão é parecido com um leilão, porém ao invés de comprar um bem, os participantes disputam para vender um bem ou serviço. A dinâmica é parecida com a do leilão, porém ao final vence o autor do menor lance ofertado. Isso lhe dará o direito de vender o bem ou serviço para o contratante do pregão. Alguns exemplos de sistemas de pregão são:
+Um pregão é parecido com um leilão, porém ao invés de comprar um bem, os participantes disputam para vender um bem ou serviço. A dinâmica é similar à do leilão, porém ao final vence o autor do menor lance ofertado. Isso lhe dará o direito de vender o bem ou serviço para o contratante do pregão. Alguns exemplos de sistemas de pregão são:
 * [ComprasBR](https://comprasbr.com.br/pregao-eletronico/?status=AGUARDANDO_ABERTURA&utm_source=Google&utm_medium=Pesquisa&utm_campaign=AN009_pregao_de_moveis)
 * [Portal de Compras do Governo Federal](https://www.gov.br/compras/pt-br)
 
