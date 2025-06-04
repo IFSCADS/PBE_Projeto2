@@ -34,9 +34,10 @@ Seguem os requisitos para a aplicação:
 * As informações sobre leilões e usuários devem ser persistentes
 
 Crie seu backend explorando o que foi estudado até o momento. Isso envolve:
-* Especificar a API do seu backend: ela pode ser uma composição de um ou mais tipos de API estudados. Não esqueça de documentá-la !
-* Definir a arquitetura do backend: pense em como os elementos de software estarão organizados e relacionados
-* Conceber e descrever o modelo de software: use os conhecimentos vistos em Engenharia de Software para modelar seu backend. Esse modelo deve ser descrito usando as ferramentas de modelagem estudadas, dentre elas diagramas  estruturais e comportamentais.
-* Modelar o armazenamento dos dados: como as informações devem persistir, será necessário usar um banco de dados. Define o modelo relacional dos dados, e use um ORM para acessá-los.
+* **Descrever os casos de uso da aplicação**: com base nos requisitos da aplicação, os casos de uso devem ser identificados e descritos. Isso será fundamental para a etapa seguinte.
+* **Especificar a API do seu backend**: ela pode ser uma composição de um ou mais tipos de API estudados. Não esqueça de documentá-la !
+* **Definir a arquitetura do backend**: pense em como os elementos de software estarão organizados e relacionados
+* **Conceber e descrever o modelo de software**: use os conhecimentos vistos em Engenharia de Software para modelar seu backend. Esse modelo deve ser descrito usando as ferramentas de modelagem estudadas, dentre elas diagramas  estruturais e comportamentais.
+* **Modelar o armazenamento dos dados**: como as informações devem persistir, será necessário usar um banco de dados. Define o modelo relacional dos dados, e use um ORM para acessá-los.
 
 Por fim, para fins de demonstração, crie também um frontend para acesso à aplicação. Pode ser um frontend simplificado, porém que possibilite o pleno uso da aplicação.
